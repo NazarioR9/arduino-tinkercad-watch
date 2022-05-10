@@ -34,8 +34,8 @@ La montre est également dotée d’un podomètre, d’une lampe de torche ainsi
 
 ## Membres de l'équipe
 
-Guenychionta TUO
-Alfonso TISCORNIA
-Hao LI
-Nour-Eddine DAHMAN
-Maxime PEREZ
+- Guenychionta TUO
+- Alfonso TISCORNIA
+- Hao LI
+- Nour-Eddine DAHMAN
+- Maxime PEREZ
