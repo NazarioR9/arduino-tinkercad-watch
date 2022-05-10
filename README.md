@@ -7,9 +7,7 @@ Le but du projet est de réaliser une montre connectée permettant de surveiller
 - La température de l'enfant
 - Le rythme cardiaque de l'enfant
 
-
-
-
+Ces informations seront stockées automatiquement sur le cloud et des rapports seront automatiquement crées.
 
 
 
@@ -33,7 +31,8 @@ Il existe un mode cours permettant de suspendre les appels ainsi qu’un mode SO
 La montre est également dotée d’un podomètre, d’une lampe de torche ainsi qu’une alarme 
 
 
-### Membres de l'équipe
+
+## Membres de l'équipe
 
 Guenychionta TUO
 Alfonso TISCORNIA
