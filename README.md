@@ -1,5 +1,12 @@
 # arduino-tinkercad-watch
 
+## Descriptif du projet
+
+Le but du projet est de réaliser une montre connectée permettant de surveiller son enfant. Après avoir connectée la montre de l'enfant avec une application disponible sur le téléphone du parent, çelui aura accès a plusieurs informations:
+- La position GPS de l'enfant
+- La température de l'enfant
+- Le rythme cardiaque de l'enfant
+
 
 
 
